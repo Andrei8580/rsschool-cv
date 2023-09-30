@@ -15,10 +15,9 @@ I want to get knowledge and skills that will be enough for employment in a compa
 * Figma
 * Windows/Linux(Ubuntu)
 ## Code Examples ##
-
-``function otherAngle(a, b) {
+`function otherAngle(a, b) {
   return 180 - a - b;
-}``
+}`
 ## Languages ##
 * Russian (native)
 * English A2 (B1 in process…)
