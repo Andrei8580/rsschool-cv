@@ -1,4 +1,4 @@
-[rsschool-cv](https://Andrei8580.github.io/rsschool-cv/cv)
+
 # Andrei Davydov # 
 ## My Contact Info: ##
 * Phone: +7(995)116-50-25
@@ -14,3 +14,4 @@ I want to get knowledge and skills that will be enough for employment in a compa
 * Git/GitHub
 * Figma
 * Windows/Linux(Ubuntu)
+
